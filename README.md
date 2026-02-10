@@ -1,6 +1,6 @@
-"# ENOBIT
+### ENOBIT
 
-A comprehensive trading risk management and analytics platform for cryptocurrency traders.
+--
 
 ## 📸 Demo Screenshots
 
