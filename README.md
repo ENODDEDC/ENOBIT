@@ -1,6 +1,6 @@
 ### ENOBIT
 
---
+Currently in Closed Beta. Access is limited to selected users while we improve features and system stability.
 
 ## 📸 Demo Screenshots
 
